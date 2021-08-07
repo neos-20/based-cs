@@ -39,9 +39,9 @@ Courses | Duration | Effort | Prerequisites
 ## Misc
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
-[Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics)  | tbd | 5 hours/week  | none
-[The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | tbd | 4 hours/week | none
-[Computation Structures - Electrical Engineering and Computer Science - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)| tbd | 5 hours/week  | [Single Variable Calculus MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+[Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics)  | tbd | tbd  | none
+[The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | tbd | tbd | none
+[Computation Structures - Electrical Engineering and Computer Science - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)| tbd | tbd | [Single Variable Calculus MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 [Introduction to Computational Thinking and Data Science - Electrical Engineering and Computer Science - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | tbd | tbd  | [Introduction to Computer Science and Programming in Python - Electrical Engineering and Computer Science - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 
 
 
