@@ -49,4 +49,4 @@ Courses | Duration | Effort | Prerequisites
 ## Performance Engineering of Software Systems
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
-[Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/) | tbd | tbd  | https://github.com/neos-20/based-cs#algorithms  and / or https://github.com/neos-20/based-cs#software-construction
+[Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/) | tbd | tbd  | [ Algorithms](https://github.com/neos-20/based-cs#algorithms)  and / or [Software construction](https://github.com/neos-20/based-cs#software-construction)
