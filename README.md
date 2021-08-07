@@ -49,4 +49,4 @@ Courses | Duration | Effort | Prerequisites
 ## Performance Engineering of Software Systems
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
-[Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/) | tbd | tbd  | [Design and Analysis of Algorithms - Electrical Engineering and Computer Science - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)   and / or [Software Construction in Java - MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about)
+[Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/) | tbd | tbd  | https://github.com/neos-20/based-cs#algorithms  and / or https://github.com/neos-20/based-cs#software-construction
