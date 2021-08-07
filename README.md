@@ -8,9 +8,9 @@ This is a curated list of free courses from reputable universities like MIT that
 ## Computer Science Basics
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
-[![Frame 65](https://user-images.githubusercontent.com/67634565/128613062-f35dc4f8-20f3-4385-88a1-08a2c55da3fc.png)](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)  | tbd | tbd  | none
+[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)  | tbd | tbd  | none
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | tbd | tbd | none
-[Introduction to Computer Science and Programming in Python ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | tbd | tbd  | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) 
+[Introduction to Computer Science and Programming in Python ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | tbd | tbd  | none
 
 
 ## Math
@@ -30,7 +30,7 @@ Courses | Duration | Effort | Prerequisites
 ## Software Construction
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
-[Introduction to Electrical Engineering and Computer Science I  ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)| tbd | tbd  | none
+[Introduction to Electrical Engineering and Computer Science I - Electrical Engineering and Computer Science ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)| tbd | tbd  | none
 [Software Construction in Java ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about)| tbd | tbd  | [Introduction to Electrical Engineering and Computer Science I ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 [Advanced Software Construction in Java ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about)| tbd | tbd  | [Software Construction in Java ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about)
 
