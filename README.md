@@ -8,18 +8,15 @@ This is a list of free courses from reputable universities like MIT that satisfy
    </details>
    
    
-## [[ Computer Science Basics ]]
+## [[ Computer Science & Maths Basics ]]
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)  | - | -  | none
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | - | - | none
-[Introduction to Electrical Engineering and Computer Science I ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)| - | -  | none
-
-## [[ Math ]]
-Courses | Duration | Effort | Prerequisites
-:-- |  :--: | :--: |  :--:
 [Single Variable Calculus ](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)  | - | -  | none
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) | - | -  |[Single Variable Calculus ](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+[Introduction to Electrical Engineering and Computer Science I ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)| - | -  | none
+
 
 
 ## [[ Algorithms ]]
