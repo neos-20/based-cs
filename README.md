@@ -33,6 +33,13 @@ Courses | Duration | Effort | Prerequisites
 [Python Data Structures](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data)| - | - | -
 
 
+## [[ Basics of C and C++ ]]
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/)| - | - | none
+[Introduction to C Memory Management and C++ Object-Oriented Programming ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/)| - | - | none
+[Effective Programming in C and C++ ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/)| - | - | none
+
 ## [[ Software Construction with Java ]]
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
