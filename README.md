@@ -8,7 +8,7 @@ This is a list of free courses from reputable universities like MIT that satisfy
    </details>
    
    
-## Computer Science Basics
+## [[ Computer Science Basics ]]
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)  | tbd | tbd  | none
@@ -16,30 +16,35 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Computer Science and Programming in Python ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | tbd | tbd  | none
 
 
-## Math
+## [[ Math ]]
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
 [Single Variable Calculus ](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)  | tbd | tbd  | none
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) | tbd | tbd  |[Single Variable Calculus ](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 
 
-## Algorithms
+## [[ Algorithms ]]
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
 [Introduction to Algorithms ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)  | tbd | tbd  | none
 [Design and Analysis of Algorithms ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)  | tbd | tbd  | [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)  
 
 
-## Software Construction
+## [[ Software Construction with Java ]]
+
 Courses | Duration | Effort | Prerequisites
-:-- |  :--: | :--: |  :--:
+:-- | :--: | :--: | :--:
 [Introduction to Electrical Engineering and Computer Science I - Electrical Engineering and Computer Science ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)| tbd | tbd  | none
+[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming)| tbd | 4-8 hours/week | none
+[Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data)| 4 weeks | 4-8 hours/week | Java Programming: Solving Problems with Software
+[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)| 6 weeks | 4-6 hours/week | Java Programming: Arrays, Lists, and Structured Data
+[Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance)| 6 weeks | 6-10 hours/week | Object Oriented Programming in Java
 [Software Construction in Java ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about)| tbd | tbd  | [Introduction to Electrical Engineering and Computer Science I ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 [Advanced Software Construction in Java ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about)| tbd | tbd  | [Software Construction in Java ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about)
+[Java Programming: Principles of Software Design](https://www.coursera.org/learn/java-programming-design-principles) | 4 weeks | 4-8 hours/week | Java Programming: Arrays, Lists, and Structured Data
 
 
-
-## Misc
+## [[ Misc ]]
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
 [Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics)  | tbd | tbd  | none
@@ -49,7 +54,7 @@ Courses | Duration | Effort | Prerequisites
 
 
 
-## Performance Engineering of Software Systems
+## [[ Performance Engineering of Software Systems ]]
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
 [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/) | tbd | tbd  | [ Algorithms](https://github.com/neos-20/based-cs#algorithms)  and / or [Software construction](https://github.com/neos-20/based-cs#software-construction)
