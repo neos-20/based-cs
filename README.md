@@ -13,8 +13,7 @@ Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)  | - | -  | none
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | - | - | none
-[Introduction to Computer Science and Programming in Python ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | - | -  | none
-
+[Introduction to Electrical Engineering and Computer Science I ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)| - | -  | none
 
 ## [[ Math ]]
 Courses | Duration | Effort | Prerequisites
@@ -30,15 +29,19 @@ Courses | Duration | Effort | Prerequisites
 [Design and Analysis of Algorithms ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)  | - | -  | [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)  
 
 
-## [[ Software Construction with Java ]]
-
+## [[ Basics of Python ]]
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Electrical Engineering and Computer Science I - Electrical Engineering and Computer Science ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)| - | -  | none
+[Introduction to Computer Science and Programming in Python ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | - | -  | none
+[Python Data Structures](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data)| - | - | -
+
+
+## [[ Software Construction with Java ]]
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
 [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming)| - | - | none
-[Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data)| - | - | Java Programming: Solving Problems with Software
-[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)| - | - | Java Programming: Arrays, Lists, and Structured Data
-[Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance)| -| - | Object Oriented Programming in Java
+[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)| - | - | none
+[Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance)| -| - | none
 [Software Construction in Java ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about)| - | -  | [Introduction to Electrical Engineering and Computer Science I ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 [Advanced Software Construction in Java ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about)| - | -  | [Software Construction in Java ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about)
 [Java Programming: Principles of Software Design](https://www.coursera.org/learn/java-programming-design-principles) | - | - | Java Programming: Arrays, Lists, and Structured Data
@@ -51,7 +54,6 @@ Courses | Duration | Effort | Prerequisites
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | - | - | none
 [Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)| - | - | [Single Variable Calculus ](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 [Introduction to Computational Thinking and Data Science ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | - | -  | [Introduction to Computer Science and Programming in Python ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 
-
 
 
 ## [[ Performance Engineering of Software Systems ]]
