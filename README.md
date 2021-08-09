@@ -6,7 +6,8 @@ This is a list of free courses from reputable universities like MIT that satisfy
   <summary>click for <b>confusion</b></summary>  
 <img src="https://user-images.githubusercontent.com/67634565/128613937-9f79436d-7318-4246-866a-c29f71468a33.png" alt="map" width="50%">
    </details>
-   
+
+[MIT-OCW for your own research](https://ocw.mit.edu/courses/)
    
 ## [[ Computer Science & Maths Basics ]]
 Courses | Duration | Effort | Prerequisites
