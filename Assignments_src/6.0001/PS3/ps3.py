@@ -178,10 +178,13 @@ def update_hand(hand, word):
     new_hand = hand.copy()
 
     for letters in word.lower():
-        if new_hand[letters] > 0:
-            new_hand[letters] -= 1
+        if new_hand.get(letters) == None:
+            continue
         else:
-            del(new_hand[letters])
+            if new_hand[letters] > 0:
+                new_hand[letters] -= 1
+            else:
+                del(new_hand[letters])
     return new_hand
 
 #
@@ -234,7 +237,11 @@ def calculate_handlen(hand):
     hand: dictionary (string-> int)
     returns: integer
     """
-    return len(hand)
+    length = 0
+    for elt in hand:
+        length += hand[elt]
+
+    return length
 
 def play_hand(hand, word_list):
 
@@ -299,6 +306,27 @@ def play_hand(hand, word_list):
 
     # Return the total score as result of function
 
+    score = 0
+    while(calculate_handlen(hand) > 0):
+        print("Current Hand: ", end="")
+        display_hand(hand)
+
+        word = input("Enter word, or \"!!\" to indicate that you are finished: ")
+        if word == '!!':
+            print("Total Score:", score)
+            return
+
+        elif is_valid_word(word, hand, word_list) == False:
+            hand = update_hand(hand, word)
+            print("That is not a valid word. Please choose another word.", "\n")
+
+        else:
+            tmp = get_word_score(word, calculate_handlen(hand))
+            hand = update_hand(hand, word)
+            score += tmp
+            print(word + " earned " + str(tmp) + " points.", " Total: " + str(score) + " points," "\n")
+
+    print("Ran out of letters. Total score: " + str(score) + " points" )
 
 
 #
@@ -332,8 +360,21 @@ def substitute_hand(hand, letter):
     letter: string
     returns: dictionary (string -> int)
     """
+    val = hand.get(letter)
+    del hand[letter]
     
-    pass  # TO DO... Remove this line when you implement this function
+    if letter in VOWELS:
+        x = random.choice(VOWELS)
+        while(x == letter or x in hand):
+            x = random.choice(VOWELS)
+        hand[x] = val 
+    
+    if letter in CONSONANTS:
+        x = random.choice(CONSONANTS)
+        while(x == letter or x in hand):
+            x = random.choice(CONSONANTS)
+        hand[x] = val 
+    return hand
        
     
 def play_game(word_list):
@@ -367,8 +408,23 @@ def play_game(word_list):
     word_list: list of lowercase strings
     """
     
-    print("play_game not implemented.") # TO DO... Remove this line when you implement this function
+    numHands = int(input('Enter total number of hands: ')) 
     
+    while(numHands > 0):
+        hand = deal_hand(HAND_SIZE)
+        numHands -= 1
+        print("Current Hand: ", end="")
+        display_hand(hand)
+
+        print('\n')
+        x = input('Would you like to substitute a letter? ')
+
+        if x == 'yes':
+            letter = input('Which letter would you like to replace: ')
+            hand = substitute_hand(hand, letter)
+        
+        play_hand(hand, word_list)
+        print('--------------------')
 
 
 #
