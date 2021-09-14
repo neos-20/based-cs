@@ -28,7 +28,7 @@ Courses | Duration | Effort | Prerequisites
 ## [[ Algorithms ]]
 Courses | Duration | Effort | Prerequisites
 :-- |  :--: | :--: |  :--:
-[Introduction to Algorithms ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)  | - | -  | none
+[Introduction to Algorithms ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/index.htm)  | - | -  | none
 [Design and Analysis of Algorithms ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)  | - | -  | [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)  
 
 

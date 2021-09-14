@@ -55,5 +55,6 @@ def main():
 
     print("Best savings rate:  " , guessed_savings_rate)
     print("Steps in bisecton search:  " , steps_in_bisection_search)
+
 if __name__ == "__main__":
     main()
