@@ -80,3 +80,12 @@ Courses | Duration | Effort | Prerequisites
 https://github.com/ForrestKnight/open-source-cs-python |
 https://github.com/ForrestKnight/open-source-cs |
 https://github.com/ossu/computer-science |
+
+
+
+
+<a href="https://github.com/neos-20/based-cs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=neos-20/based-cs" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
